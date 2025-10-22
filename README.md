@@ -29,6 +29,6 @@
 
 ### 开源项目
 - [✨ 灵卡面板 - 打造你的专属摸鱼面板](https://github.com/baby7/agile-tiles)
-- [七仔的桌面工具(停止更新)](https://github.com/baby7/baby7-desktop-tool)
+- [七仔的桌面工具](https://github.com/baby7/baby7-desktop-tool)
 - [七仔的电池健康工具](https://github.com/baby7/baby7-win-battery-health)
 - [Windows喝水记录工具](https://github.com/baby7/drinking)
