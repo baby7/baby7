@@ -48,4 +48,4 @@
 - [七仔的电池健康工具](https://github.com/baby7/baby7-win-battery-health)
 - [Windows喝水记录工具](https://github.com/baby7/drinking)
 - [DSH思源笔记直送](https://github.com/baby7/dsh-siyuan-sender)
-- [https://github.com/baby7/Excalidraw持久化](https://github.com/baby7/ExcalidrawKeep)
+- [Excalidraw持久化](https://github.com/baby7/ExcalidrawKeep)
